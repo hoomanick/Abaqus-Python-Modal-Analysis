@@ -16,16 +16,16 @@ The project also highlights a realistic debugging process required to overcome d
 The workflow was applied to a 3D FE model of a simply supported steel beam. The first three primary bending modes were extracted and plotted.
 
 ### Natural Frequencies
-![Extracted Natural Frequencies](modal_outputs/natural_frequencies_plot.png)
+![Extracted Natural Frequencies](natural_frequencies_plot.png)
 
 ### Mode Shape 6
-![Mode Shape 6]([modal_outputs/mode_6_shape_plot.png](https://github.com/hoomanick/Abaqus-Python-Modal-Analysis/blob/main/mode_6_shape_plot.png))
+![Mode Shape 6]([mode_6_shape_plot.png])
 
 ### Mode Shape 32
-![Mode Shape 32](modal_outputs/mode_32_shape_plot.png)
+![Mode Shape 32](mode_32_shape_plot.png)
 
 ### Mode Shape 83
-![Mode Shape 83](modal_outputs/mode_83_shape_plot.png)
+![Mode Shape 83](mode_83_shape_plot.png)
 
 
 ## The Workflow
