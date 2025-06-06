@@ -19,7 +19,7 @@ The workflow was applied to a 3D FE model of a simply supported steel beam. The 
 ![Extracted Natural Frequencies](modal_outputs/natural_frequencies_plot.png)
 
 ### Mode Shape 6
-![Mode Shape 6](modal_outputs/mode_6_shape_plot.png)
+![Mode Shape 6]([modal_outputs/mode_6_shape_plot.png](https://github.com/hoomanick/Abaqus-Python-Modal-Analysis/blob/main/mode_6_shape_plot.png))
 
 ### Mode Shape 32
 ![Mode Shape 32](modal_outputs/mode_32_shape_plot.png)
