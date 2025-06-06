@@ -37,7 +37,7 @@ The process consists of two main scripts:
 
 ## Abaqus Model Details
 
-The Finite Element model was created in Abaqus/CAE and is based on the experimental work of Tan et al. [17].
+The Finite Element model was created in Abaqus/CAE and is based on the experimental work of Tan et al. [https://www.sciencedirect.com/science/article/abs/pii/S1350630717300523].
 
 * **Structure:** Simply Supported Steel I-Beam
 * **Dimensions:** Length: 3m, Height: 150mm, Flange/Web Thickness: 7mm/5mm
