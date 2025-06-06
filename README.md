@@ -19,7 +19,7 @@ The workflow was applied to a 3D FE model of a simply supported steel beam. The 
 ![Extracted Natural Frequencies](natural_frequencies_plot.png)
 
 ### Mode Shape 6
-![Mode Shape 6]([mode_6_shape_plot.png])
+![Mode Shape 6](mode_6_shape_plot.png)
 
 ### Mode Shape 32
 ![Mode Shape 32](mode_32_shape_plot.png)
